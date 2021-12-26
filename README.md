@@ -1,1 +1,1 @@
-# WebRTC Demo w/ Vite.js & Firebase
+# WebRTC Demo with Vite.js & Firebase
